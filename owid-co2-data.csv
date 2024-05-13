@@ -89,7 +89,6 @@ Year,Country,Code,Total,Flag
 2020,Angola,AGO,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AGO.svg
 2021,Angola,AGO,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AGO.svg
 2022,Angola,AGO,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AGO.svg
-1913,Argentina,ARG,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARG.svg
 1924,Argentina,ARG,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARG.svg
 1925,Argentina,ARG,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARG.svg
 1926,Argentina,ARG,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARG.svg
@@ -189,26 +188,6 @@ Year,Country,Code,Total,Flag
 2020,Argentina,ARG,167.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARG.svg
 2021,Argentina,ARG,190.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARG.svg
 2022,Argentina,ARG,193.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARG.svg
-1900,Australia,AUS,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1901,Australia,AUS,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1902,Australia,AUS,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1903,Australia,AUS,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1904,Australia,AUS,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1905,Australia,AUS,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1906,Australia,AUS,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1907,Australia,AUS,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1908,Australia,AUS,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1909,Australia,AUS,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1910,Australia,AUS,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1911,Australia,AUS,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1912,Australia,AUS,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1913,Australia,AUS,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1914,Australia,AUS,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1915,Australia,AUS,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1916,Australia,AUS,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1917,Australia,AUS,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1918,Australia,AUS,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1919,Australia,AUS,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
 1920,Australia,AUS,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
 1921,Australia,AUS,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
 1922,Australia,AUS,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
@@ -312,45 +291,6 @@ Year,Country,Code,Total,Flag
 2020,Australia,AUS,397.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
 2021,Australia,AUS,387.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
 2022,Australia,AUS,392.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUS.svg
-1871,Austria,AUT,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1872,Austria,AUT,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1873,Austria,AUT,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1880,Austria,AUT,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1881,Austria,AUT,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1882,Austria,AUT,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1883,Austria,AUT,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1884,Austria,AUT,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1885,Austria,AUT,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1886,Austria,AUT,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1887,Austria,AUT,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1888,Austria,AUT,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1889,Austria,AUT,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1890,Austria,AUT,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1891,Austria,AUT,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1892,Austria,AUT,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1893,Austria,AUT,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1894,Austria,AUT,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1895,Austria,AUT,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1896,Austria,AUT,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1897,Austria,AUT,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1898,Austria,AUT,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1899,Austria,AUT,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1900,Austria,AUT,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1901,Austria,AUT,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1902,Austria,AUT,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1903,Austria,AUT,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1904,Austria,AUT,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1905,Austria,AUT,29.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1906,Austria,AUT,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1907,Austria,AUT,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1908,Austria,AUT,60.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1909,Austria,AUT,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1910,Austria,AUT,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1911,Austria,AUT,49.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1912,Austria,AUT,52.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1913,Austria,AUT,61.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1914,Austria,AUT,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
-1915,Austria,AUT,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
 1920,Austria,AUT,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
 1921,Austria,AUT,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
 1922,Austria,AUT,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/AUT.svg
@@ -677,75 +617,6 @@ Year,Country,Code,Total,Flag
 2020,Belarus,BLR,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BLR.svg
 2021,Belarus,BLR,61.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BLR.svg
 2022,Belarus,BLR,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BLR.svg
-1851,Belgium,BEL,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1852,Belgium,BEL,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1853,Belgium,BEL,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1854,Belgium,BEL,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1855,Belgium,BEL,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1856,Belgium,BEL,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1857,Belgium,BEL,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1858,Belgium,BEL,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1859,Belgium,BEL,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1860,Belgium,BEL,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1861,Belgium,BEL,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1862,Belgium,BEL,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1863,Belgium,BEL,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1864,Belgium,BEL,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1865,Belgium,BEL,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1866,Belgium,BEL,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1867,Belgium,BEL,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1868,Belgium,BEL,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1869,Belgium,BEL,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1870,Belgium,BEL,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1871,Belgium,BEL,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1872,Belgium,BEL,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1873,Belgium,BEL,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1874,Belgium,BEL,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1875,Belgium,BEL,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1876,Belgium,BEL,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1877,Belgium,BEL,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1878,Belgium,BEL,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1879,Belgium,BEL,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1880,Belgium,BEL,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1881,Belgium,BEL,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1882,Belgium,BEL,32.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1883,Belgium,BEL,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1884,Belgium,BEL,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1885,Belgium,BEL,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1886,Belgium,BEL,32.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1887,Belgium,BEL,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1888,Belgium,BEL,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1889,Belgium,BEL,37.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1890,Belgium,BEL,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1891,Belgium,BEL,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1892,Belgium,BEL,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1893,Belgium,BEL,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1894,Belgium,BEL,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1895,Belgium,BEL,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1896,Belgium,BEL,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1897,Belgium,BEL,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1898,Belgium,BEL,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1899,Belgium,BEL,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1900,Belgium,BEL,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1901,Belgium,BEL,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1902,Belgium,BEL,49.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1903,Belgium,BEL,53.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1904,Belgium,BEL,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1905,Belgium,BEL,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1906,Belgium,BEL,58.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1907,Belgium,BEL,58.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1908,Belgium,BEL,58.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1909,Belgium,BEL,58.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1910,Belgium,BEL,61.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1911,Belgium,BEL,62.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1912,Belgium,BEL,65.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1913,Belgium,BEL,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1914,Belgium,BEL,41.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1915,Belgium,BEL,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1916,Belgium,BEL,46.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1917,Belgium,BEL,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1918,Belgium,BEL,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
-1919,Belgium,BEL,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
 1920,Belgium,BEL,55.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
 1921,Belgium,BEL,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
 1922,Belgium,BEL,56.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/BEL.svg
@@ -1083,39 +954,6 @@ Year,Country,Code,Total,Flag
 2021,Cambodia,KHM,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/KHM.svg
 2022,Cambodia,KHM,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/KHM.svg
 2021,Cameroon,CMR,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CMR.svg
-1887,Canada,CAN,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1888,Canada,CAN,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1889,Canada,CAN,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1890,Canada,CAN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1891,Canada,CAN,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1892,Canada,CAN,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1893,Canada,CAN,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1894,Canada,CAN,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1895,Canada,CAN,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1896,Canada,CAN,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1897,Canada,CAN,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1898,Canada,CAN,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1899,Canada,CAN,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1900,Canada,CAN,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1901,Canada,CAN,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1902,Canada,CAN,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1903,Canada,CAN,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1904,Canada,CAN,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1905,Canada,CAN,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1906,Canada,CAN,37.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1907,Canada,CAN,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1908,Canada,CAN,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1909,Canada,CAN,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1910,Canada,CAN,52.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1911,Canada,CAN,60.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1912,Canada,CAN,67.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1913,Canada,CAN,79.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1914,Canada,CAN,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1915,Canada,CAN,61.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1916,Canada,CAN,76.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1917,Canada,CAN,85.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1918,Canada,CAN,90.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
-1919,Canada,CAN,76.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
 1920,Canada,CAN,84.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
 1921,Canada,CAN,80.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
 1922,Canada,CAN,69.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CAN.svg
@@ -1290,19 +1128,6 @@ Year,Country,Code,Total,Flag
 2020,Chile,CHL,80.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHL.svg
 2021,Chile,CHL,89.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHL.svg
 2022,Chile,CHL,84.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHL.svg
-1907,China,CHN,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1908,China,CHN,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1909,China,CHN,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1910,China,CHN,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1911,China,CHN,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1912,China,CHN,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1913,China,CHN,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1914,China,CHN,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1915,China,CHN,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1916,China,CHN,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1917,China,CHN,32.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1918,China,CHN,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
-1919,China,CHN,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
 1920,China,CHN,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
 1921,China,CHN,39.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
 1922,China,CHN,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CHN.svg
@@ -1617,50 +1442,6 @@ Year,Country,Code,Total,Flag
 1976,Curacao,CUW,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CUW.svg
 1984,Curacao,CUW,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CUW.svg
 1985,Curacao,CUW,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CUW.svg
-1876,Czechia,CZE,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1877,Czechia,CZE,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1878,Czechia,CZE,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1879,Czechia,CZE,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1880,Czechia,CZE,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1881,Czechia,CZE,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1882,Czechia,CZE,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1883,Czechia,CZE,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1884,Czechia,CZE,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1885,Czechia,CZE,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1886,Czechia,CZE,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1887,Czechia,CZE,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1888,Czechia,CZE,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1889,Czechia,CZE,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1890,Czechia,CZE,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1891,Czechia,CZE,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1892,Czechia,CZE,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1893,Czechia,CZE,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1894,Czechia,CZE,29.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1895,Czechia,CZE,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1896,Czechia,CZE,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1897,Czechia,CZE,32.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1898,Czechia,CZE,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1899,Czechia,CZE,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1900,Czechia,CZE,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1901,Czechia,CZE,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1902,Czechia,CZE,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1903,Czechia,CZE,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1904,Czechia,CZE,37.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1905,Czechia,CZE,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1906,Czechia,CZE,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1907,Czechia,CZE,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1908,Czechia,CZE,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1909,Czechia,CZE,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1910,Czechia,CZE,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1911,Czechia,CZE,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1912,Czechia,CZE,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1913,Czechia,CZE,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1914,Czechia,CZE,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1915,Czechia,CZE,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1916,Czechia,CZE,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1917,Czechia,CZE,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1918,Czechia,CZE,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1919,Czechia,CZE,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
 1920,Czechia,CZE,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
 1921,Czechia,CZE,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
 1922,Czechia,CZE,29.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
@@ -1764,8 +1545,6 @@ Year,Country,Code,Total,Flag
 2020,Czechia,CZE,92.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
 2021,Czechia,CZE,97.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
 2022,Czechia,CZE,98.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/CZE.svg
-1915,Denmark,DNK,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DNK.svg
-1916,Denmark,DNK,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DNK.svg
 1923,Denmark,DNK,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DNK.svg
 1924,Denmark,DNK,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DNK.svg
 1925,Denmark,DNK,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DNK.svg
@@ -2159,90 +1938,6 @@ Year,Country,Code,Total,Flag
 2020,Finland,FIN,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FIN.svg
 2021,Finland,FIN,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FIN.svg
 2022,Finland,FIN,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FIN.svg
-1836,France,FRA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1837,France,FRA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1838,France,FRA,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1839,France,FRA,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1840,France,FRA,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1841,France,FRA,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1842,France,FRA,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1843,France,FRA,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1844,France,FRA,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1845,France,FRA,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1846,France,FRA,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1847,France,FRA,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1848,France,FRA,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1849,France,FRA,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1850,France,FRA,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1851,France,FRA,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1852,France,FRA,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1853,France,FRA,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1854,France,FRA,29.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1855,France,FRA,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1856,France,FRA,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1857,France,FRA,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1858,France,FRA,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1859,France,FRA,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1860,France,FRA,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1861,France,FRA,41.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1862,France,FRA,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1863,France,FRA,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1864,France,FRA,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1865,France,FRA,49.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1866,France,FRA,54.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1867,France,FRA,54.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1868,France,FRA,56.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1869,France,FRA,57.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1870,France,FRA,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1871,France,FRA,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1872,France,FRA,61.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1873,France,FRA,66.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1874,France,FRA,63.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1875,France,FRA,65.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1876,France,FRA,65.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1877,France,FRA,64.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1878,France,FRA,65.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1879,France,FRA,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1880,France,FRA,76.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1881,France,FRA,78.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1882,France,FRA,82.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1883,France,FRA,86.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1884,France,FRA,83.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1885,France,FRA,80.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1886,France,FRA,79.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1887,France,FRA,83.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1888,France,FRA,87.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1889,France,FRA,89.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1890,France,FRA,98.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1891,France,FRA,98.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1892,France,FRA,98.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1893,France,FRA,96.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1894,France,FRA,102.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1895,France,FRA,103.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1896,France,FRA,106.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1897,France,FRA,111.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1898,France,FRA,115.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1899,France,FRA,120.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1900,France,FRA,129.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1901,France,FRA,125.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1902,France,FRA,118.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1903,France,FRA,129.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1904,France,FRA,126.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1905,France,FRA,127.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1906,France,FRA,137.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1907,France,FRA,146.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1908,France,FRA,147.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1909,France,FRA,150.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1910,France,FRA,151.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1911,France,FRA,157.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1912,France,FRA,159.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1913,France,FRA,171.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1914,France,FRA,118.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1915,France,FRA,103.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1916,France,FRA,110.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1917,France,FRA,122.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1918,France,FRA,108.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
-1919,France,FRA,116.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
 1920,France,FRA,152.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
 1921,France,FRA,138.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
 1922,France,FRA,163.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/FRA.svg
@@ -2375,84 +2070,6 @@ Year,Country,Code,Total,Flag
 2020,Georgia,GEO,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GEO.svg
 2021,Georgia,GEO,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GEO.svg
 2022,Georgia,GEO,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GEO.svg
-1842,Germany,DEU,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1843,Germany,DEU,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1844,Germany,DEU,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1845,Germany,DEU,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1846,Germany,DEU,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1847,Germany,DEU,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1848,Germany,DEU,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1849,Germany,DEU,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1850,Germany,DEU,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1851,Germany,DEU,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1852,Germany,DEU,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1853,Germany,DEU,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1854,Germany,DEU,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1855,Germany,DEU,29.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1856,Germany,DEU,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1857,Germany,DEU,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1858,Germany,DEU,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1859,Germany,DEU,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1860,Germany,DEU,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1861,Germany,DEU,41.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1862,Germany,DEU,46.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1863,Germany,DEU,49.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1864,Germany,DEU,57.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1865,Germany,DEU,64.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1866,Germany,DEU,63.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1867,Germany,DEU,69.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1868,Germany,DEU,74.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1869,Germany,DEU,78.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1870,Germany,DEU,77.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1871,Germany,DEU,85.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1872,Germany,DEU,92.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1873,Germany,DEU,98.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1874,Germany,DEU,72.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1875,Germany,DEU,102.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1876,Germany,DEU,103.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1877,Germany,DEU,101.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1878,Germany,DEU,104.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1879,Germany,DEU,111.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1880,Germany,DEU,124.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1881,Germany,DEU,134.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1882,Germany,DEU,144.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1883,Germany,DEU,153.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1884,Germany,DEU,158.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1885,Germany,DEU,161.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1886,Germany,DEU,163.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1887,Germany,DEU,170.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1888,Germany,DEU,186.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1889,Germany,DEU,199.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1890,Germany,DEU,208.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1891,Germany,DEU,221.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1892,Germany,DEU,215.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1893,Germany,DEU,221.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1894,Germany,DEU,230.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1895,Germany,DEU,238.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1896,Germany,DEU,256.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1897,Germany,DEU,274.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1898,Germany,DEU,285.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1899,Germany,DEU,303.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1900,Germany,DEU,327.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1901,Germany,DEU,326.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1902,Germany,DEU,319.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1903,Germany,DEU,344.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1904,Germany,DEU,356.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1905,Germany,DEU,382.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1906,Germany,DEU,362.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1907,Germany,DEU,442.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1908,Germany,DEU,447.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1909,Germany,DEU,446.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1910,Germany,DEU,445.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1911,Germany,DEU,459.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1912,Germany,DEU,499.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1913,Germany,DEU,535.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1914,Germany,DEU,498.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1915,Germany,DEU,463.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1916,Germany,DEU,501.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1917,Germany,DEU,525.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1918,Germany,DEU,503.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
-1919,Germany,DEU,387.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
 1920,Germany,DEU,429.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
 1921,Germany,DEU,473.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
 1922,Germany,DEU,456.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/DEU.svg
@@ -2705,19 +2322,6 @@ Year,Country,Code,Total,Flag
 2020,Hong Kong,HKG,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HKG.svg
 2021,Hong Kong,HKG,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HKG.svg
 2022,Hong Kong,HKG,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HKG.svg
-1906,Hungary,HUN,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1907,Hungary,HUN,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1908,Hungary,HUN,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1909,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1910,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1911,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1912,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1913,Hungary,HUN,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1914,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1915,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1916,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1917,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1918,Hungary,HUN,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
 1922,Hungary,HUN,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
 1923,Hungary,HUN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
 1924,Hungary,HUN,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
@@ -2818,27 +2422,6 @@ Year,Country,Code,Total,Flag
 2020,Hungary,HUN,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
 2021,Hungary,HUN,49.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
 2022,Hungary,HUN,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/HUN.svg
-1899,India,IND,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1900,India,IND,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1901,India,IND,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1902,India,IND,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1903,India,IND,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1904,India,IND,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1905,India,IND,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1906,India,IND,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1907,India,IND,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1908,India,IND,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1909,India,IND,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1910,India,IND,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1911,India,IND,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1912,India,IND,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1913,India,IND,32.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1914,India,IND,32.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1915,India,IND,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1916,India,IND,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1917,India,IND,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1918,India,IND,39.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
-1919,India,IND,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
 1920,India,IND,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
 1921,India,IND,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
 1922,India,IND,37.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/IND.svg
@@ -3321,39 +2904,6 @@ Year,Country,Code,Total,Flag
 2020,Israel,ISR,56.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ISR.svg
 2021,Israel,ISR,55.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ISR.svg
 2022,Israel,ISR,56.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ISR.svg
-1887,Italy,ITA,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1888,Italy,ITA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1889,Italy,ITA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1890,Italy,ITA,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1891,Italy,ITA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1892,Italy,ITA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1893,Italy,ITA,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1894,Italy,ITA,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1895,Italy,ITA,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1896,Italy,ITA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1897,Italy,ITA,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1898,Italy,ITA,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1899,Italy,ITA,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1900,Italy,ITA,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1901,Italy,ITA,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1902,Italy,ITA,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1903,Italy,ITA,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1904,Italy,ITA,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1905,Italy,ITA,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1906,Italy,ITA,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1907,Italy,ITA,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1908,Italy,ITA,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1909,Italy,ITA,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1910,Italy,ITA,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1911,Italy,ITA,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1912,Italy,ITA,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1913,Italy,ITA,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1914,Italy,ITA,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1915,Italy,ITA,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1916,Italy,ITA,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1917,Italy,ITA,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1918,Italy,ITA,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
-1919,Italy,ITA,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
 1920,Italy,ITA,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
 1921,Italy,ITA,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
 1922,Italy,ITA,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ITA.svg
@@ -3464,32 +3014,6 @@ Year,Country,Code,Total,Flag
 2006,Jamaica,JAM,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JAM.svg
 2007,Jamaica,JAM,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JAM.svg
 2008,Jamaica,JAM,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JAM.svg
-1894,Japan,JPN,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1895,Japan,JPN,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1896,Japan,JPN,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1897,Japan,JPN,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1898,Japan,JPN,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1899,Japan,JPN,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1900,Japan,JPN,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1901,Japan,JPN,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1902,Japan,JPN,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1903,Japan,JPN,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1904,Japan,JPN,29.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1905,Japan,JPN,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1906,Japan,JPN,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1907,Japan,JPN,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1908,Japan,JPN,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1909,Japan,JPN,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1910,Japan,JPN,39.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1911,Japan,JPN,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1912,Japan,JPN,49.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1913,Japan,JPN,54.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1914,Japan,JPN,58.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1915,Japan,JPN,53.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1916,Japan,JPN,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1917,Japan,JPN,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1918,Japan,JPN,72.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
-1919,Japan,JPN,79.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
 1920,Japan,JPN,74.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
 1921,Japan,JPN,67.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
 1922,Japan,JPN,71.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/JPN.svg
@@ -4118,13 +3642,6 @@ Year,Country,Code,Total,Flag
 2020,Malaysia,MYS,269.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MYS.svg
 2021,Malaysia,MYS,279.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MYS.svg
 2022,Malaysia,MYS,291.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MYS.svg
-1913,Mexico,MEX,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
-1914,Mexico,MEX,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
-1915,Mexico,MEX,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
-1916,Mexico,MEX,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
-1917,Mexico,MEX,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
-1918,Mexico,MEX,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
-1919,Mexico,MEX,41.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
 1920,Mexico,MEX,76.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
 1921,Mexico,MEX,90.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
 1922,Mexico,MEX,86.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/MEX.svg
@@ -4366,37 +3883,6 @@ Year,Country,Code,Total,Flag
 2020,Nepal,NPL,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NPL.svg
 2021,Nepal,NPL,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NPL.svg
 2022,Nepal,NPL,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NPL.svg
-1888,Netherlands,NLD,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1889,Netherlands,NLD,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1890,Netherlands,NLD,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1891,Netherlands,NLD,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1892,Netherlands,NLD,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1893,Netherlands,NLD,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1894,Netherlands,NLD,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1895,Netherlands,NLD,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1896,Netherlands,NLD,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1897,Netherlands,NLD,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1898,Netherlands,NLD,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1899,Netherlands,NLD,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1900,Netherlands,NLD,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1901,Netherlands,NLD,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1902,Netherlands,NLD,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1903,Netherlands,NLD,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1904,Netherlands,NLD,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1905,Netherlands,NLD,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1906,Netherlands,NLD,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1907,Netherlands,NLD,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1908,Netherlands,NLD,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1909,Netherlands,NLD,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1910,Netherlands,NLD,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1911,Netherlands,NLD,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1912,Netherlands,NLD,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1913,Netherlands,NLD,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1914,Netherlands,NLD,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1915,Netherlands,NLD,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1916,Netherlands,NLD,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1918,Netherlands,NLD,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
-1919,Netherlands,NLD,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
 1920,Netherlands,NLD,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
 1921,Netherlands,NLD,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
 1922,Netherlands,NLD,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/NLD.svg
@@ -5006,62 +4492,6 @@ Year,Country,Code,Total,Flag
 2020,Philippines,PHL,133.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/PHL.svg
 2021,Philippines,PHL,143.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/PHL.svg
 2022,Philippines,PHL,150.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/PHL.svg
-1863,Poland,POL,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1864,Poland,POL,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1865,Poland,POL,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1866,Poland,POL,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1867,Poland,POL,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1868,Poland,POL,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1869,Poland,POL,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1870,Poland,POL,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1871,Poland,POL,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1872,Poland,POL,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1873,Poland,POL,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1874,Poland,POL,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1875,Poland,POL,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1876,Poland,POL,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1877,Poland,POL,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1878,Poland,POL,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1879,Poland,POL,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1880,Poland,POL,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1881,Poland,POL,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1882,Poland,POL,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1883,Poland,POL,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1884,Poland,POL,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1885,Poland,POL,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1886,Poland,POL,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1887,Poland,POL,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1888,Poland,POL,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1889,Poland,POL,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1890,Poland,POL,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1891,Poland,POL,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1892,Poland,POL,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1893,Poland,POL,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1894,Poland,POL,46.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1895,Poland,POL,49.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1896,Poland,POL,53.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1897,Poland,POL,55.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1898,Poland,POL,60.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1899,Poland,POL,62.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1900,Poland,POL,63.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1901,Poland,POL,67.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1902,Poland,POL,66.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1903,Poland,POL,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1904,Poland,POL,69.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1905,Poland,POL,75.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1906,Poland,POL,79.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1907,Poland,POL,87.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1908,Poland,POL,93.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1909,Poland,POL,96.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1910,Poland,POL,94.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1911,Poland,POL,100.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1912,Poland,POL,111.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1913,Poland,POL,116.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1914,Poland,POL,97.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1915,Poland,POL,95.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1916,Poland,POL,109.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1917,Poland,POL,121.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
-1918,Poland,POL,102.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
 1920,Poland,POL,76.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
 1921,Poland,POL,75.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
 1922,Poland,POL,72.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/POL.svg
@@ -5374,43 +4804,6 @@ Year,Country,Code,Total,Flag
 2020,Romania,ROU,74.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ROU.svg
 2021,Romania,ROU,77.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ROU.svg
 2022,Romania,ROU,74.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ROU.svg
-1883,Russia,RUS,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1884,Russia,RUS,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1885,Russia,RUS,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1886,Russia,RUS,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1887,Russia,RUS,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1888,Russia,RUS,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1889,Russia,RUS,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1890,Russia,RUS,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1891,Russia,RUS,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1892,Russia,RUS,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1893,Russia,RUS,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1894,Russia,RUS,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1895,Russia,RUS,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1896,Russia,RUS,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1897,Russia,RUS,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1898,Russia,RUS,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1899,Russia,RUS,41.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1900,Russia,RUS,46.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1901,Russia,RUS,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1902,Russia,RUS,46.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1903,Russia,RUS,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1904,Russia,RUS,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1905,Russia,RUS,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1906,Russia,RUS,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1907,Russia,RUS,57.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1908,Russia,RUS,57.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1909,Russia,RUS,60.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1910,Russia,RUS,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1911,Russia,RUS,61.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1912,Russia,RUS,69.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1913,Russia,RUS,75.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1914,Russia,RUS,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1915,Russia,RUS,62.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1916,Russia,RUS,66.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1917,Russia,RUS,61.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1918,Russia,RUS,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
-1919,Russia,RUS,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
 1920,Russia,RUS,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
 1921,Russia,RUS,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
 1922,Russia,RUS,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/RUS.svg
@@ -5702,29 +5095,6 @@ Year,Country,Code,Total,Flag
 2020,Singapore,SGP,55.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SGP.svg
 2021,Singapore,SGP,56.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SGP.svg
 2022,Singapore,SGP,53.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SGP.svg
-1897,Slovakia,SVK,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1898,Slovakia,SVK,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1899,Slovakia,SVK,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1900,Slovakia,SVK,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1901,Slovakia,SVK,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1902,Slovakia,SVK,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1903,Slovakia,SVK,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1904,Slovakia,SVK,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1905,Slovakia,SVK,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1906,Slovakia,SVK,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1907,Slovakia,SVK,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1908,Slovakia,SVK,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1909,Slovakia,SVK,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1910,Slovakia,SVK,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1911,Slovakia,SVK,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1912,Slovakia,SVK,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1913,Slovakia,SVK,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1914,Slovakia,SVK,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1915,Slovakia,SVK,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1916,Slovakia,SVK,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1917,Slovakia,SVK,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1918,Slovakia,SVK,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
-1919,Slovakia,SVK,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
 1920,Slovakia,SVK,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
 1921,Slovakia,SVK,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
 1924,Slovakia,SVK,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVK.svg
@@ -5873,21 +5243,6 @@ Year,Country,Code,Total,Flag
 2020,Slovenia,SVN,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVN.svg
 2021,Slovenia,SVN,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVN.svg
 2022,Slovenia,SVN,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SVN.svg
-1905,South Africa,ZAF,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1906,South Africa,ZAF,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1907,South Africa,ZAF,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1908,South Africa,ZAF,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1909,South Africa,ZAF,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1910,South Africa,ZAF,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1911,South Africa,ZAF,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1912,South Africa,ZAF,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1913,South Africa,ZAF,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1914,South Africa,ZAF,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1915,South Africa,ZAF,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1916,South Africa,ZAF,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1917,South Africa,ZAF,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1918,South Africa,ZAF,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
-1919,South Africa,ZAF,23.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
 1920,South Africa,ZAF,26.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
 1921,South Africa,ZAF,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
 1922,South Africa,ZAF,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ZAF.svg
@@ -6055,27 +5410,6 @@ Year,Country,Code,Total,Flag
 2020,South Korea,KOR,598.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/KOR.svg
 2021,South Korea,KOR,616.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/KOR.svg
 2022,South Korea,KOR,601.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/KOR.svg
-1899,Spain,ESP,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1900,Spain,ESP,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1901,Spain,ESP,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1902,Spain,ESP,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1903,Spain,ESP,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1904,Spain,ESP,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1905,Spain,ESP,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1906,Spain,ESP,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1907,Spain,ESP,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1908,Spain,ESP,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1909,Spain,ESP,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1910,Spain,ESP,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1911,Spain,ESP,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1912,Spain,ESP,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1913,Spain,ESP,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1914,Spain,ESP,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1915,Spain,ESP,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1916,Spain,ESP,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1917,Spain,ESP,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1918,Spain,ESP,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
-1919,Spain,ESP,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
 1920,Spain,ESP,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
 1921,Spain,ESP,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
 1922,Spain,ESP,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ESP.svg
@@ -6219,19 +5553,6 @@ Year,Country,Code,Total,Flag
 2020,Sudan,SDN,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SDN.svg
 2021,Sudan,SDN,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SDN.svg
 2022,Sudan,SDN,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SDN.svg
-1904,Sweden,SWE,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1905,Sweden,SWE,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1906,Sweden,SWE,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1907,Sweden,SWE,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1908,Sweden,SWE,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1909,Sweden,SWE,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1910,Sweden,SWE,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1911,Sweden,SWE,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1912,Sweden,SWE,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1913,Sweden,SWE,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1914,Sweden,SWE,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1915,Sweden,SWE,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
-1916,Sweden,SWE,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
 1920,Sweden,SWE,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
 1922,Sweden,SWE,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
 1923,Sweden,SWE,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/SWE.svg
@@ -6839,26 +6160,6 @@ Year,Country,Code,Total,Flag
 2020,Turkmenistan,TKM,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/TKM.svg
 2021,Turkmenistan,TKM,70.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/TKM.svg
 2022,Turkmenistan,TKM,71.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/TKM.svg
-1898,Ukraine,UKR,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1899,Ukraine,UKR,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1900,Ukraine,UKR,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1901,Ukraine,UKR,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1902,Ukraine,UKR,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1903,Ukraine,UKR,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1904,Ukraine,UKR,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1905,Ukraine,UKR,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1906,Ukraine,UKR,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1907,Ukraine,UKR,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1908,Ukraine,UKR,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1909,Ukraine,UKR,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1910,Ukraine,UKR,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1911,Ukraine,UKR,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1912,Ukraine,UKR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1913,Ukraine,UKR,24.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1914,Ukraine,UKR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1915,Ukraine,UKR,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1916,Ukraine,UKR,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
-1917,Ukraine,UKR,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
 1924,Ukraine,UKR,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
 1925,Ukraine,UKR,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
 1926,Ukraine,UKR,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/UKR.svg
@@ -7012,169 +6313,6 @@ Year,Country,Code,Total,Flag
 2020,United Arab Emirates,ARE,217.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARE.svg
 2021,United Arab Emirates,ARE,237.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARE.svg
 2022,United Arab Emirates,ARE,244.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/ARE.svg
-1757,United Kingdom,GBR,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1758,United Kingdom,GBR,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1759,United Kingdom,GBR,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1760,United Kingdom,GBR,10.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1761,United Kingdom,GBR,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1762,United Kingdom,GBR,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1763,United Kingdom,GBR,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1764,United Kingdom,GBR,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1765,United Kingdom,GBR,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1766,United Kingdom,GBR,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1767,United Kingdom,GBR,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1768,United Kingdom,GBR,12.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1769,United Kingdom,GBR,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1770,United Kingdom,GBR,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1771,United Kingdom,GBR,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1772,United Kingdom,GBR,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1773,United Kingdom,GBR,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1774,United Kingdom,GBR,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1775,United Kingdom,GBR,14.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1776,United Kingdom,GBR,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1777,United Kingdom,GBR,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1778,United Kingdom,GBR,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1779,United Kingdom,GBR,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1780,United Kingdom,GBR,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1781,United Kingdom,GBR,16.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1782,United Kingdom,GBR,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1783,United Kingdom,GBR,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1784,United Kingdom,GBR,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1785,United Kingdom,GBR,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1786,United Kingdom,GBR,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1787,United Kingdom,GBR,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1788,United Kingdom,GBR,19.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1789,United Kingdom,GBR,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1790,United Kingdom,GBR,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1791,United Kingdom,GBR,21.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1792,United Kingdom,GBR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1793,United Kingdom,GBR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1794,United Kingdom,GBR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1795,United Kingdom,GBR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1796,United Kingdom,GBR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1797,United Kingdom,GBR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1798,United Kingdom,GBR,22.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1799,United Kingdom,GBR,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1800,United Kingdom,GBR,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1801,United Kingdom,GBR,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1802,United Kingdom,GBR,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1803,United Kingdom,GBR,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1804,United Kingdom,GBR,28.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1805,United Kingdom,GBR,29.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1806,United Kingdom,GBR,31.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1807,United Kingdom,GBR,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1808,United Kingdom,GBR,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1809,United Kingdom,GBR,34.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1810,United Kingdom,GBR,35.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1811,United Kingdom,GBR,36.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1812,United Kingdom,GBR,37.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1813,United Kingdom,GBR,37.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1814,United Kingdom,GBR,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1815,United Kingdom,GBR,39.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1816,United Kingdom,GBR,39.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1817,United Kingdom,GBR,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1818,United Kingdom,GBR,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1819,United Kingdom,GBR,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1820,United Kingdom,GBR,43.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1821,United Kingdom,GBR,44.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1822,United Kingdom,GBR,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1823,United Kingdom,GBR,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1824,United Kingdom,GBR,48.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1825,United Kingdom,GBR,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1826,United Kingdom,GBR,50.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1827,United Kingdom,GBR,52.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1828,United Kingdom,GBR,53.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1829,United Kingdom,GBR,53.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1830,United Kingdom,GBR,68.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1831,United Kingdom,GBR,64.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1832,United Kingdom,GBR,63.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1833,United Kingdom,GBR,62.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1834,United Kingdom,GBR,66.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1835,United Kingdom,GBR,72.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1836,United Kingdom,GBR,78.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1837,United Kingdom,GBR,75.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1838,United Kingdom,GBR,74.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1839,United Kingdom,GBR,76.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1840,United Kingdom,GBR,81.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1841,United Kingdom,GBR,81.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1842,United Kingdom,GBR,85.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1843,United Kingdom,GBR,89.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1844,United Kingdom,GBR,94.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1845,United Kingdom,GBR,100.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1846,United Kingdom,GBR,96.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1847,United Kingdom,GBR,102.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1848,United Kingdom,GBR,109.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1849,United Kingdom,GBR,117.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1850,United Kingdom,GBR,122.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1851,United Kingdom,GBR,116.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1852,United Kingdom,GBR,116.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1853,United Kingdom,GBR,115.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1854,United Kingdom,GBR,139.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1855,United Kingdom,GBR,130.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1856,United Kingdom,GBR,140.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1857,United Kingdom,GBR,138.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1858,United Kingdom,GBR,135.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1859,United Kingdom,GBR,150.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1860,United Kingdom,GBR,168.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1861,United Kingdom,GBR,175.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1862,United Kingdom,GBR,170.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1863,United Kingdom,GBR,180.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1864,United Kingdom,GBR,194.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1865,United Kingdom,GBR,206.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1866,United Kingdom,GBR,212.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1867,United Kingdom,GBR,217.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1868,United Kingdom,GBR,213.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1869,United Kingdom,GBR,224.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1870,United Kingdom,GBR,228.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1871,United Kingdom,GBR,242.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1872,United Kingdom,GBR,255.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1873,United Kingdom,GBR,265.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1874,United Kingdom,GBR,257.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1875,United Kingdom,GBR,272.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1876,United Kingdom,GBR,271.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1877,United Kingdom,GBR,276.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1878,United Kingdom,GBR,271.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1879,United Kingdom,GBR,273.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1880,United Kingdom,GBR,297.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1881,United Kingdom,GBR,312.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1882,United Kingdom,GBR,315.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1883,United Kingdom,GBR,328.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1884,United Kingdom,GBR,319.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1885,United Kingdom,GBR,315.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1886,United Kingdom,GBR,312.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1887,United Kingdom,GBR,320.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1888,United Kingdom,GBR,333.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1889,United Kingdom,GBR,345.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1890,United Kingdom,GBR,353.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1891,United Kingdom,GBR,360.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1892,United Kingdom,GBR,353.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1893,United Kingdom,GBR,316.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1894,United Kingdom,GBR,362.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1895,United Kingdom,GBR,366.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1896,United Kingdom,GBR,376.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1897,United Kingdom,GBR,386.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1898,United Kingdom,GBR,387.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1899,United Kingdom,GBR,415.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1900,United Kingdom,GBR,420.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1901,United Kingdom,GBR,411.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1902,United Kingdom,GBR,427.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1903,United Kingdom,GBR,430.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1904,United Kingdom,GBR,432.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1905,United Kingdom,GBR,438.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1906,United Kingdom,GBR,453.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1907,United Kingdom,GBR,474.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1908,United Kingdom,GBR,462.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1909,United Kingdom,GBR,466.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1910,United Kingdom,GBR,470.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1911,United Kingdom,GBR,481.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1912,United Kingdom,GBR,456.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1913,United Kingdom,GBR,498.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1914,United Kingdom,GBR,483.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1915,United Kingdom,GBR,490.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1916,United Kingdom,GBR,507.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1917,United Kingdom,GBR,501.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1918,United Kingdom,GBR,467.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1919,United Kingdom,GBR,456.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
 1920,United Kingdom,GBR,471.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
 1921,United Kingdom,GBR,320.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
 1922,United Kingdom,GBR,428.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
@@ -7278,81 +6416,6 @@ Year,Country,Code,Total,Flag
 2020,United Kingdom,GBR,326.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
 2021,United Kingdom,GBR,348.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
 2022,United Kingdom,GBR,319.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/GBR.svg
-1845,United States,USA,11.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1846,United States,USA,13.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1847,United States,USA,15.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1848,United States,USA,17.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1849,United States,USA,18.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1850,United States,USA,20.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1851,United States,USA,25.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1852,United States,USA,27.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1853,United States,USA,30.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1854,United States,USA,33.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1855,United States,USA,38.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1856,United States,USA,40.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1857,United States,USA,41.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1858,United States,USA,42.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1859,United States,USA,45.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1860,United States,USA,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1861,United States,USA,46.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1862,United States,USA,47.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1863,United States,USA,55.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1864,United States,USA,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1865,United States,USA,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1866,United States,USA,59.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1867,United States,USA,73.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1868,United States,USA,82.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1869,United States,USA,94.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1870,United States,USA,99.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1871,United States,USA,103.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1872,United States,USA,126.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1873,United States,USA,140.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1874,United States,USA,134.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1875,United States,USA,136.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1876,United States,USA,133.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1877,United States,USA,147.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1878,United States,USA,144.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1879,United States,USA,176.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1880,United States,USA,199.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1881,United States,USA,210.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1882,United States,USA,235.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1883,United States,USA,254.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1884,United States,USA,268.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1885,United States,USA,272.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1886,United States,USA,288.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1887,United States,USA,307.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1888,United States,USA,374.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1889,United States,USA,336.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1890,United States,USA,402.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1891,United States,USA,427.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1892,United States,USA,450.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1893,United States,USA,454.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1894,United States,USA,425.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1895,United States,USA,480.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1896,United States,USA,481.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1897,United States,USA,500.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1898,United States,USA,545.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1899,United States,USA,626.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1900,United States,USA,663.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1901,United States,USA,722.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1902,United States,USA,764.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1903,United States,USA,894.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1904,United States,USA,882.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1905,United States,USA,986.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1906,United States,USA,1036.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1907,United States,USA,1204.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1908,United States,USA,1053.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1909,United States,USA,1166.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1910,United States,USA,1272.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1911,United States,USA,1259.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1912,United States,USA,1344.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1913,United States,USA,1442.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1914,United States,USA,1318.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1915,United States,USA,1368.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1916,United States,USA,1519.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1917,United States,USA,1671.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1918,United States,USA,1748.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
-1919,United States,USA,1479.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
 1920,United States,USA,1738.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
 1921,United States,USA,1424.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
 1922,United States,USA,1436.0,https://purecatamphetamine.github.io/country-flag-icons/1x1/USA.svg
